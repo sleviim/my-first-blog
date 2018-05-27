@@ -1,0 +1,24 @@
+dJango girls:
+=============
+
+installation:
+-------------
+virtual env: lower letters, no spaces.
+create accounts: Github, pythonanywhare, generate an API token on pythonanywhere.
+
+
+Your first Django project:
+--------------------------
+* Remember to run everything in the virtualenv. If you don't see a prefix (myvenv) in your console, you need to activate your virtualenv.
+We explained how to do that in the Django installation chapter in the Working with virtualenv part.
+Typing myvenv\Scripts\activate on Windows or source myvenv/bin/activate on Mac OS X or Linux will do this for you.
+
+* Running scripts from (myvenv) ~/djangogirls$ path
+
+* Running server by (myvenv) ~/djangogirls$ python manage.py runserver.
+Should press ctrl+c to quit or opening a new tab and connect to the virtenv.
+
+
+Django models:
+--------------
+Note: Remember to save the files you edit.
