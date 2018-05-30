@@ -22,3 +22,8 @@ Should press ctrl+c to quit or opening a new tab and connect to the virtenv.
 Django models:
 --------------
 Note: Remember to save the files you edit.
+
+CSS:
+----
+More fonts are available here: https://developers.google.com/fonts/docs/getting_started
+List of fonts: https://fonts.google.com/
